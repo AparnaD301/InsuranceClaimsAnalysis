@@ -1,4 +1,4 @@
-# InsuranceClaimsAnalysis
+# InsuranceClaimsAnalysis using Postgres SQL
 
 Objectives 
 
